@@ -89,3 +89,4 @@ Develop predictive models using historical data to forecast future outbreaks.
 Incorporate climate variables (e.g., temperature, rainfall) into analyses.
 Collaboration :
 Partner with local health departments and academic institutions for comprehensive monitoring.
+// need to re update the writing for the md file
