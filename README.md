@@ -49,7 +49,7 @@ Temporal Trends :
 Grouped data by month/year to assess seasonality of WNV infections.
 Tools Used
 Spreadsheet software (e.g., Excel) for initial data processing.
-Python/R for advanced statistical analysis and visualization (not explicitly mentioned here but implied).
+Python/R for advanced statistical analysis and visualization.
 Key Findings
 Summary Statistics
 Total Tests: Several thousand samples analyzed.
