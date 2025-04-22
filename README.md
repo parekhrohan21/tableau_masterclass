@@ -131,5 +131,6 @@ The dataset spans several years, with both positive and negative WNV results.
 
 --- 
 
-Need to update the question and solve them
 --- 
+THe tableau quetions are solved and now wil be adding a summary
+Still incomplete documentation, need to add the questions and explanations 
