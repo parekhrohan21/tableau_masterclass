@@ -130,7 +130,7 @@ The dataset spans several years, with both positive and negative WNV results.
    - Partner with local health departments and academic institutions for comprehensive monitoring.  
 
 --- 
-Adding question absed detail for this task
---- 
 
+--- 
+THe tableau quetions are solved and now wil be adding a summary
 Still incomplete documentation, need to add the questions and explanations 
