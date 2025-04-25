@@ -7,3 +7,5 @@ We can use tableau or power BI.
 
 
 The practice file is from this link https://data.cityofchicago.org/Health-Human-Services/West-Nile-Virus-WNV-Mosquito-Test-Results/jqe8-8r6s/about_data
+
+there are multiple alternatives for visualisationg. Like power BI, Google Looker studio
